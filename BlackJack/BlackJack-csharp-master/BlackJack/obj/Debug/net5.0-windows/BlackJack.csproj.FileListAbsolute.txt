@@ -1,0 +1,40 @@
+C:\Users\isaqu\Downloads\BlackJack\BlackJack-csharp-master\BlackJack\bin\Debug\net5.0-windows\BlackJack.exe
+C:\Users\isaqu\Downloads\BlackJack\BlackJack-csharp-master\BlackJack\bin\Debug\net5.0-windows\BlackJack.deps.json
+C:\Users\isaqu\Downloads\BlackJack\BlackJack-csharp-master\BlackJack\bin\Debug\net5.0-windows\BlackJack.runtimeconfig.json
+C:\Users\isaqu\Downloads\BlackJack\BlackJack-csharp-master\BlackJack\bin\Debug\net5.0-windows\BlackJack.runtimeconfig.dev.json
+C:\Users\isaqu\Downloads\BlackJack\BlackJack-csharp-master\BlackJack\bin\Debug\net5.0-windows\BlackJack.dll
+C:\Users\isaqu\Downloads\BlackJack\BlackJack-csharp-master\BlackJack\bin\Debug\net5.0-windows\ref\BlackJack.dll
+C:\Users\isaqu\Downloads\BlackJack\BlackJack-csharp-master\BlackJack\bin\Debug\net5.0-windows\BlackJack.pdb
+C:\Users\isaqu\Downloads\BlackJack\BlackJack-csharp-master\BlackJack\obj\Debug\net5.0-windows\BlackJack.csprojAssemblyReference.cache
+C:\Users\isaqu\Downloads\BlackJack\BlackJack-csharp-master\BlackJack\obj\Debug\net5.0-windows\BlackJack.Form_jogo.resources
+C:\Users\isaqu\Downloads\BlackJack\BlackJack-csharp-master\BlackJack\obj\Debug\net5.0-windows\BlackJack.form_apresentacao.resources
+C:\Users\isaqu\Downloads\BlackJack\BlackJack-csharp-master\BlackJack\obj\Debug\net5.0-windows\BlackJack.Properties.Resources.resources
+C:\Users\isaqu\Downloads\BlackJack\BlackJack-csharp-master\BlackJack\obj\Debug\net5.0-windows\BlackJack.csproj.GenerateResource.cache
+C:\Users\isaqu\Downloads\BlackJack\BlackJack-csharp-master\BlackJack\obj\Debug\net5.0-windows\BlackJack.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\isaqu\Downloads\BlackJack\BlackJack-csharp-master\BlackJack\obj\Debug\net5.0-windows\BlackJack.AssemblyInfoInputs.cache
+C:\Users\isaqu\Downloads\BlackJack\BlackJack-csharp-master\BlackJack\obj\Debug\net5.0-windows\BlackJack.AssemblyInfo.cs
+C:\Users\isaqu\Downloads\BlackJack\BlackJack-csharp-master\BlackJack\obj\Debug\net5.0-windows\BlackJack.csproj.CoreCompileInputs.cache
+C:\Users\isaqu\Downloads\BlackJack\BlackJack-csharp-master\BlackJack\obj\Debug\net5.0-windows\BlackJack.dll
+C:\Users\isaqu\Downloads\BlackJack\BlackJack-csharp-master\BlackJack\obj\Debug\net5.0-windows\ref\BlackJack.dll
+C:\Users\isaqu\Downloads\BlackJack\BlackJack-csharp-master\BlackJack\obj\Debug\net5.0-windows\BlackJack.pdb
+C:\Users\isaqu\Downloads\BlackJack\BlackJack-csharp-master\BlackJack\obj\Debug\net5.0-windows\BlackJack.genruntimeconfig.cache
+C:\Users\isaqu\OneDrive\Área de Trabalho\BlackJack\BlackJack-csharp-master\BlackJack\bin\Debug\net5.0-windows\BlackJack.exe
+C:\Users\isaqu\OneDrive\Área de Trabalho\BlackJack\BlackJack-csharp-master\BlackJack\bin\Debug\net5.0-windows\BlackJack.deps.json
+C:\Users\isaqu\OneDrive\Área de Trabalho\BlackJack\BlackJack-csharp-master\BlackJack\bin\Debug\net5.0-windows\BlackJack.runtimeconfig.json
+C:\Users\isaqu\OneDrive\Área de Trabalho\BlackJack\BlackJack-csharp-master\BlackJack\bin\Debug\net5.0-windows\BlackJack.runtimeconfig.dev.json
+C:\Users\isaqu\OneDrive\Área de Trabalho\BlackJack\BlackJack-csharp-master\BlackJack\bin\Debug\net5.0-windows\BlackJack.dll
+C:\Users\isaqu\OneDrive\Área de Trabalho\BlackJack\BlackJack-csharp-master\BlackJack\bin\Debug\net5.0-windows\ref\BlackJack.dll
+C:\Users\isaqu\OneDrive\Área de Trabalho\BlackJack\BlackJack-csharp-master\BlackJack\bin\Debug\net5.0-windows\BlackJack.pdb
+C:\Users\isaqu\OneDrive\Área de Trabalho\BlackJack\BlackJack-csharp-master\BlackJack\obj\Debug\net5.0-windows\BlackJack.csprojAssemblyReference.cache
+C:\Users\isaqu\OneDrive\Área de Trabalho\BlackJack\BlackJack-csharp-master\BlackJack\obj\Debug\net5.0-windows\BlackJack.Form_jogo.resources
+C:\Users\isaqu\OneDrive\Área de Trabalho\BlackJack\BlackJack-csharp-master\BlackJack\obj\Debug\net5.0-windows\BlackJack.form_apresentacao.resources
+C:\Users\isaqu\OneDrive\Área de Trabalho\BlackJack\BlackJack-csharp-master\BlackJack\obj\Debug\net5.0-windows\BlackJack.Properties.Resources.resources
+C:\Users\isaqu\OneDrive\Área de Trabalho\BlackJack\BlackJack-csharp-master\BlackJack\obj\Debug\net5.0-windows\BlackJack.csproj.GenerateResource.cache
+C:\Users\isaqu\OneDrive\Área de Trabalho\BlackJack\BlackJack-csharp-master\BlackJack\obj\Debug\net5.0-windows\BlackJack.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\isaqu\OneDrive\Área de Trabalho\BlackJack\BlackJack-csharp-master\BlackJack\obj\Debug\net5.0-windows\BlackJack.AssemblyInfoInputs.cache
+C:\Users\isaqu\OneDrive\Área de Trabalho\BlackJack\BlackJack-csharp-master\BlackJack\obj\Debug\net5.0-windows\BlackJack.AssemblyInfo.cs
+C:\Users\isaqu\OneDrive\Área de Trabalho\BlackJack\BlackJack-csharp-master\BlackJack\obj\Debug\net5.0-windows\BlackJack.csproj.CoreCompileInputs.cache
+C:\Users\isaqu\OneDrive\Área de Trabalho\BlackJack\BlackJack-csharp-master\BlackJack\obj\Debug\net5.0-windows\BlackJack.dll
+C:\Users\isaqu\OneDrive\Área de Trabalho\BlackJack\BlackJack-csharp-master\BlackJack\obj\Debug\net5.0-windows\ref\BlackJack.dll
+C:\Users\isaqu\OneDrive\Área de Trabalho\BlackJack\BlackJack-csharp-master\BlackJack\obj\Debug\net5.0-windows\BlackJack.pdb
+C:\Users\isaqu\OneDrive\Área de Trabalho\BlackJack\BlackJack-csharp-master\BlackJack\obj\Debug\net5.0-windows\BlackJack.genruntimeconfig.cache
